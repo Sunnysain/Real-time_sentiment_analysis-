@@ -7,6 +7,12 @@
 Welcome to the **Real-time Sentiment Analysis** project! This Shiny-based web application leverages machine learning and natural language processing (NLP) techniques to analyze news articles and visualize sentiment, topic modeling, and named entities. It's designed to give you insights into real-time sentiment trends across news sources. 🌟
 
 ## 🚀 Project Overview
+![Screenshot 2024-10-05 141118](https://github.com/user-attachments/assets/ede671f6-31c0-4fe1-9a33-c4365da2c149)
+![Screenshot 2024-10-05 141158](https://github.com/user-attachments/assets/9b4491b2-7057-44b7-8bd2-ede992cb065e)
+![Screenshot 2024-10-05 141232](https://github.com/user-attachments/assets/87835a33-7f1b-485e-952d-4faa3fc6c1b8)
+![Screenshot 2024-10-05 141256](https://github.com/user-attachments/assets/f8a47d08-aaa8-4139-a9dc-1e1dcf3d51ba)
+![Screenshot 2024-10-05 141320](https://github.com/user-attachments/assets/2d121cdb-6d59-46a9-8c5a-7f6d2352947b)
+![Screenshot 2024-10-05 141338](https://github.com/user-attachments/assets/04a49398-eb93-4a5a-b8dc-a7d17191c4f4)
 
 The application allows users to:
 - 🔍 Fetch news articles based on specific hashtags (via the News API).
