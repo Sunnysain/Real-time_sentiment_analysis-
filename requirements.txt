@@ -1,0 +1,14 @@
+shiny==1.7.1
+ggplot2==3.3.5
+dplyr==1.0.7
+tm==0.7-8
+topicmodels==0.2-12
+spacyr==1.2
+broom==0.7.10
+tidyverse==1.3.1
+readr==2.0.2
+stringr==1.4.0
+reshape2==1.4.4
+data.table==1.14.2
+tidytext==0.3.1
+scales==1.1.1
